@@ -1,1 +1,1 @@
-# HealthCare_Project
+Responsive Healthcare Web Application built using Vite.
